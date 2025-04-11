@@ -1,6 +1,6 @@
 {
-  "name": "send-me-maybe",
-  "version": "1.0.0",
+  "name": "insomnia-plugin-send-me-maybe",
+  "version": "1.0.2",
   "main": "index.js",
   "keywords": ["insomnia", "insomnia-plugin", "request", "confirmation"],
   "description": "A plugin to ask for confirmation before sending restricted HTTP requests.",
