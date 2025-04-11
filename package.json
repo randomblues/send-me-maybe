@@ -1,0 +1,15 @@
+{
+  "name": "send-me-maybe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": ["insomnia", "insomnia-plugin", "request", "confirmation"],
+  "description": "A plugin to ask for confirmation before sending restricted HTTP requests.",
+  "author": "Shane Dsouza",
+  "license": "MIT",
+  "insomnia": {
+    "name": "Send Me Maybe",
+    "type": "request",
+    "description": "This plugin will ask for confirmation before sending restricted requests.",
+    "icon": "fa-check-circle"
+  }
+}
