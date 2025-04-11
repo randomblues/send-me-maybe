@@ -1,6 +1,6 @@
 # Send Me Maybe
 
-A funny Insomnia plugin that asks for confirmation before sending restricted HTTP requests. Like, seriously, are you sure?
+An Insomnia plugin that asks for confirmation before sending restricted HTTP requests. Like, seriously, are you sure?
 
 ## Features
 
